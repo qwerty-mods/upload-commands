@@ -1,0 +1,7 @@
+{
+    "name": "Upload Commands",
+    "version": "1.0.0",
+    "description": "Commands that allow for uploads by filenames.",
+    "author": "12944qwerty",
+    "license": "MIT"
+}  
